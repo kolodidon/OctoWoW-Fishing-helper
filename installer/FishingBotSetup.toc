@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Fishing Bot Setup
+## Notes: Creates Fishing Bot macros and configures SuperAPI autoloot on request.
+## Version: 1.0
+## OptionalDeps: SuperAPI
+FishingBotSetup.lua

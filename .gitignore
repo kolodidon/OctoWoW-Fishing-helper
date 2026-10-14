@@ -1,0 +1,31 @@
+# Local environment and generated logs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+audio-matches.jsonl
+cycles.jsonl
+last-result.json
+*.log
+*.dmp
+work/
+backups/
+# Never archive account settings / live game SavedVariables
+WTF/
+WDB/
+Config.wtf
+macros-cache.txt
+SavedVariables/
+*.env
+.env
+credentials*
+secrets*
+# Do not commit the outer transport zip or extracted staging folder
+Fishing-bot-GitLab.zip
+addons-and-macros/
+
+# Installed runtime is not the distributable source
+FishingBot/
+.installer-cache/
+Start Fishing Bot.lnk
+Start WoW for Fishing.lnk

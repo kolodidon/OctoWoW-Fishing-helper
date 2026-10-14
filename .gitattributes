@@ -1,0 +1,2 @@
+# Preserve exact package bytes so SHA256SUMS works in Git clones and ZIP downloads.
+* -text
